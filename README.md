@@ -1,2 +1,2 @@
-# byhoung.github.io
-hosting a webapp
+# byhoung
+hosting a web app
